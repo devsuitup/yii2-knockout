@@ -1,5 +1,5 @@
 {
-    "name":        "e-frank/yii2-knockout",
+    "name":        "devsuitup/yii2-knockout",
     "description": "Widget for creating Knockout viewmodels from yii ActiveRecords",
     "keywords":    ["yii", "knockout"],
     "type":        "yii2-extension",
